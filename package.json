@@ -1,0 +1,43 @@
+{
+  "name": "blazetheme",
+  "displayName": "Ice Theme",
+  "version": "1.0.2",
+  "publisher": "AyushmaanSingh",
+  "description": "Icy tones create a serene workspace.",
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "icon": "Ice/extension/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ayushmaan0101/Ice-Theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ice",
+        "uiTheme": "vs-dark",
+        "path": "./Ice/themes/ice-color-theme.json"
+      },
+      {
+        "label": "Blaze",
+        "uiTheme": "vs-dark",
+        "path": "./Blaze/themes/blaze-color-theme.json"
+      }
+    ],
+    "configuration": {
+      "type": "object",
+      "title": "My Extension Settings",
+      "properties": {
+        "editor.fontFamily": {
+          "type": "string",
+          "default": "Monaco, Consolas, 'Courier New', monospace",
+          "description": "Specifies the font family for the editor."
+        }
+      }
+    }
+  }
+}
