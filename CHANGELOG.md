@@ -2,6 +2,17 @@
 
 All notable changes to the Ice Theme extension will be documented in this file.
 
+## [1.0.3] - 2024-04-04
+
+### Fixed
+
+- Corrected the default font issue.
+
+### Improved
+
+- Improved styling of the suggest widget.
+- Improved styling of tabs in the Blaze theme.
+
 ## [1.0.2] - 2024-04-03
 
 ### Fixed

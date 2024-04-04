@@ -1,7 +1,9 @@
 {
   "name": "blazetheme",
   "displayName": "Ice Theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "main": "extension/extension.js",
+  "activationEvents": ["onStartupFinished" ],
   "publisher": "AyushmaanSingh",
   "description": "Icy tones create a serene workspace.",
   "categories": [
