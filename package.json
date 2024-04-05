@@ -1,7 +1,7 @@
 {
   "name": "blazetheme",
   "displayName": "Ice Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "extension/extension.js",
   "activationEvents": ["onStartupFinished" ],
   "publisher": "AyushmaanSingh",
@@ -9,8 +9,19 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "Ice Theme",
+    "ice theme",
+    "icy tones",
+    "cool theme",
+    "dark theme",
+    "VS Code",
+    "theme",
+    "Dark",
+    "Blue"
+  ],
   "engines": {
-    "vscode": "^1.87.0"
+    "vscode": "^1.88.0"
   },
   "icon": "Ice/extension/logo.png",
   "repository": {

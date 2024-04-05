@@ -2,6 +2,12 @@
 
 All notable changes to the Ice Theme extension will be documented in this file.
 
+## [1.0.4] - 2024-05-04
+
+### Updated
+
+- Updated theme to be compatible with new VS Code version 1.88.0.
+
 ## [1.0.3] - 2024-04-04
 
 ### Fixed
