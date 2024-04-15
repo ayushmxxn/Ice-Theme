@@ -200,7 +200,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#d7d7d7"
+        "foreground": "#d7d7d7" // constant
       }
     },
     {
@@ -336,7 +336,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#ff7cc1"
+        "foreground": "#dab2da" // imports
       }
     },
     {
@@ -545,7 +545,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#ff7cc1"
+        "foreground": "#d5a1f7" // variabes
       }
     },
     {
@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#76ff7f"
+        "foreground": "#24ed8f" // functions
       }
     },
     {
@@ -645,7 +645,7 @@
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#d7d7d7"
+        "foreground": "#fd84f3" // typename
       }
     },
     {
@@ -1733,7 +1733,7 @@
         "wikiword.xi"
       ],
       "settings": {
-        "foreground": "#ffb4cd"
+        "foreground": "#a92652"
       }
     },
     {
@@ -1790,7 +1790,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#585c99e3"
+        "foreground": "#6f8096"  // Comments
       }
     },
     {
@@ -1900,14 +1900,14 @@
     "menu.selectionForeground": "#ffffff",
     "menu.selectionBackground": "#9d9dd56a",
     "menu.selectionBorder": "#00000000",
-    "menu.separatorBackground": "#676b8a",
-    "menu.border": "#676b8a",
+    "menu.separatorBackground": "#48547a",
+    "menu.border": "#48547a",
     "button.background": "#5f5fdb",
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#6666e6",
     "button.secondaryForeground": "#ffffff",
-    "button.secondaryBackground": "#3a3d41",
-    "button.secondaryHoverBackground": "#45494e",
+    "button.secondaryBackground": "#44556b",
+    "button.secondaryHoverBackground": "#3a485a",
     "input.background": "#131d34",
     "input.border": "#00000000",
     "input.foreground": "#d9d9d9",
@@ -1975,7 +1975,7 @@
     "panelTitle.activeBorder": "#e7e7e7",
     "panelTitle.activeForeground": "#e7e7e7",
     "panelTitle.inactiveForeground": "#e7e7e799",
-    "badge.background": "#566890", // badge
+    "badge.background": "#44556b", // badge
     "badge.foreground": "#ffffff",
     "terminal.foreground": "#cccccc",
     "terminal.selectionBackground": "#ffffff40",
@@ -2019,11 +2019,11 @@
     "progressBar.background": "#6f63ff",
     "widget.shadow": "#0000007c",
     "editorWidget.foreground": "#cccccc",
-    "editorWidget.background": "#0c2138",
-    "editorWidget.resizeBorder": "#48547a",
+    "editorWidget.background": "#131D34",
+    "editorWidget.resizeBorder": "#5F5F5F",
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#3794ff",
-    "debugToolBar.background": "#131D34",
+    "debugToolBar.background": "#0c2138",
     "debugToolBar.border": "#48547a",
     "notifications.foreground": "#cccccc",
     "notifications.background": "#131d34",
@@ -2034,7 +2034,7 @@
     "notificationCenter.border": "#323232",
     "notificationCenterHeader.foreground": "#f9f9f9",
     "notificationCenterHeader.background": "#5f5fdb",
-    "notifications.border": "#48547a",
+    "notifications.border": "#6f6f71",
     "gitDecoration.addedResourceForeground": "#81b88b",
     "gitDecoration.conflictingResourceForeground": "#6c6cc4",
     "gitDecoration.deletedResourceForeground": "#c74e39",
@@ -2060,7 +2060,7 @@
     "editorSuggestWidget.highlightForeground": "#83bfff",
     "editorSuggestWidget.selectedBackground": "#9d9dd56a",
     "editorHoverWidget.foreground": "#f0f0f0",
-    "editorHoverWidget.background": "#131D34",
+    "editorHoverWidget.background": "#0C2138",
     "editorHoverWidget.border": "#48547a",
     "peekView.border": "#007acc",
     "peekViewEditor.background": "#001f33",
@@ -2101,6 +2101,6 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#131D34",
-    "debugExceptionWidget.border": "#9f9696"
+    "debugExceptionWidget.border": "#48547a"
   }
 }

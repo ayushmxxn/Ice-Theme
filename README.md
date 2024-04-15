@@ -10,7 +10,7 @@ This theme contains two versions: Ice and Blaze.
 
 ### Blaze Theme
 
-![Screenshot](https://i.imgur.com/T5WENaq.png)
+![Screenshot](https://i.imgur.com/MxFq4zp.png)
 
 ## Support
 
