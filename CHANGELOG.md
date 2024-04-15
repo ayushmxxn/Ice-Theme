@@ -2,6 +2,19 @@
 
 All notable changes to the Ice Theme extension will be documented in this file.
 
+## [2.0.0] - 2024-16-04
+
+### Improved
+
+- Improved the Blaze theme.
+- Improved the Ice Theme.
+
+## [1.0.5] - 2024-11-04
+
+### Improved
+
+- Improved readability for Imports, Variables, and Functions.
+
 ## [1.0.4] - 2024-05-04
 
 ### Updated
@@ -23,7 +36,7 @@ All notable changes to the Ice Theme extension will be documented in this file.
 
 ### Fixed
 
-- Corrected spelling error in README.
+- Corrected typo in README.
 - Fixed incorrect path to the extension.
 
 ## [1.0.0] - 2024-04-03
