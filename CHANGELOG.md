@@ -2,7 +2,13 @@
 
 All notable changes to the Ice Theme extension will be documented in this file.
 
-## [2.0.1] - 2024-16-04
+## [2.1.1] - 2024-19-04
+
+### Fixed
+
+- Fixed the font family not retaining issue.
+
+## [2.1.0] - 2024-16-04
 
 ### Improved
 
