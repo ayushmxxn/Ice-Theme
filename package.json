@@ -1,7 +1,7 @@
 {
   "name": "blazetheme",
   "displayName": "Ice Theme",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "main": "extension/extension.js",
   "activationEvents": ["onStartupFinished" ],
   "publisher": "AyushmaanSingh",
@@ -26,7 +26,7 @@
   "icon": "Ice/extension/logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ayushmaan0101/Ice-Theme"
+    "url": "https://github.com/ayushmxxn/Ice-Theme"
   },
   "contributes": {
     "themes": [

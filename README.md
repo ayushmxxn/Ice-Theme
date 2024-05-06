@@ -16,7 +16,7 @@ This theme contains two versions: Ice and Blaze.
 
 If you find these themes useful and would like to support its development, consider buying me a coffee! ☕️
 
-<a href="https://www.buymeacoffee.com/ayushmaanx" target="_blank">
+<a href="https://www.buymeacoffee.com/ayushmxxn" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
 </a>
 
@@ -54,15 +54,15 @@ If you find these themes useful and would like to support its development, consi
 
 This theme is created and maintained by the following person.
 
-<img src="https://i.imgur.com/jjJfnFs.png" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
+<img src="https://i.imgur.com/HepOoVX.jpeg" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
 
 Ayushmaan Singh
 
 ## Connect With Me
 
-- [Twitter](https://twitter.com/AyushmaansinghX)
-- [GitHub](https://github.com/Ayushmaan0101)
-- [Source Code](https://github.com/Ayushmaan0101/Ice-Theme)
+- [Twitter](https://twitter.com/ayushmxxn)
+- [GitHub](https://github.com/ayushmxxn)
+- [Source Code](https://github.com/ayushmxxn/Ice-Theme)
 
 ## User Feedback
 
