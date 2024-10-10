@@ -54,7 +54,7 @@ If you find these themes useful and would like to support its development, consi
 
 This theme is created and maintained by the following person.
 
-<img src="https://i.imgur.com/HepOoVX.jpeg" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
+<img src="https://i.ibb.co/QcpbzzH/Avatar.jpg" alt="Ayushmaan Singh" width="100" height="100" style="border-radius: 50%;">
 
 Ayushmaan Singh
 
